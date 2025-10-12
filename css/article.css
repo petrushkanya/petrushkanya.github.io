@@ -34,7 +34,7 @@ main article .attachment li {
     list-style: none;
     padding: 0.25rem 20px;
     margin: 0;
-    background: url("../build/img/paperclip-16x16.png") 0 2px no-repeat;
+    background: url("../img/paperclip-16x16.png") 0 2px no-repeat;
     font-size: 0.75rem;
     color: #888;
 }
