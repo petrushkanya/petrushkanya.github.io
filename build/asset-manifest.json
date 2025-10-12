@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3f52a7e.css",
+    "main.js": "/static/js/main.f1aebe1e.js",
+    "static/media/do_it.png": "/static/media/do_it.608c76a987329944abf6.png",
+    "static/media/logo.png": "/static/media/logo.f97561f2e710d881004f.png",
+    "static/media/losos_grill.jpg": "/static/media/losos_grill.31deee3e4efd82ac2db4.jpg",
+    "static/media/krewetka.jpg": "/static/media/krewetka.04ba4f95f8a9a8b3e4a1.jpg",
+    "static/media/losos.jpg": "/static/media/losos.9132b3dd978cd149dd5d.jpg",
+    "static/media/tunczyk.jpg": "/static/media/tunczyk.ead25271a773f1ea5ea5.jpg",
+    "static/media/rzodkiewka.jpg": "/static/media/rzodkiewka.43988b2a895a3c5eac5e.jpg",
+    "static/media/krab.jpg": "/static/media/krab.642934551edad55fcd9d.jpg",
+    "static/media/tykwa.jpg": "/static/media/tykwa.c5b304e12e7a5283e732.jpg",
+    "static/media/avokado.jpg": "/static/media/avokado.0cd849931d4bea6d3af6.jpg",
+    "static/media/mango.jpg": "/static/media/mango.ca0e93c2e8504996f296.jpg",
+    "index.html": "/index.html",
+    "main.d3f52a7e.css.map": "/static/css/main.d3f52a7e.css.map",
+    "main.f1aebe1e.js.map": "/static/js/main.f1aebe1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f52a7e.css",
+    "static/js/main.f1aebe1e.js"
+  ]
+}

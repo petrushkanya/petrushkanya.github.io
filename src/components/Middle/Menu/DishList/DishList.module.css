@@ -1,0 +1,6 @@
+.dishList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* расстояние между карточками */
+    padding: 20px;
+}
