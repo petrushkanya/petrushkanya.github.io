@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.71dcdb64.css",
-    "main.js": "/static/js/main.908154f0.js",
+    "main.css": "/static/css/main.868b2799.css",
+    "main.js": "/static/js/main.a0784bcf.js",
     "static/media/do_it.png": "/static/media/do_it.608c76a987329944abf6.png",
     "static/media/logo.png": "/static/media/logo.f97561f2e710d881004f.png",
     "static/media/losos_grill.jpg": "/static/media/losos_grill.31deee3e4efd82ac2db4.jpg",
@@ -14,11 +14,11 @@
     "static/media/avokado.jpg": "/static/media/avokado.0cd849931d4bea6d3af6.jpg",
     "static/media/mango.jpg": "/static/media/mango.ca0e93c2e8504996f296.jpg",
     "index.html": "/index.html",
-    "main.71dcdb64.css.map": "/static/css/main.71dcdb64.css.map",
-    "main.908154f0.js.map": "/static/js/main.908154f0.js.map"
+    "main.868b2799.css.map": "/static/css/main.868b2799.css.map",
+    "main.a0784bcf.js.map": "/static/js/main.a0784bcf.js.map"
   },
   "entrypoints": [
-    "static/css/main.71dcdb64.css",
-    "static/js/main.908154f0.js"
+    "static/css/main.868b2799.css",
+    "static/js/main.a0784bcf.js"
   ]
 }
