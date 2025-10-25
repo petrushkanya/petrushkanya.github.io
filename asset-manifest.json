@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.868b2799.css",
-    "main.js": "/static/js/main.a0784bcf.js",
+    "main.css": "/static/css/main.1d4d8b7b.css",
+    "main.js": "/static/js/main.ed0a3c77.js",
     "static/media/do_it.png": "/static/media/do_it.608c76a987329944abf6.png",
-    "static/media/logo.png": "/static/media/logo.f97561f2e710d881004f.png",
+    "static/media/logo.png": "/static/media/logo.5b7711771300c84ff4d9.png",
     "static/media/losos_grill.jpg": "/static/media/losos_grill.31deee3e4efd82ac2db4.jpg",
     "static/media/krewetka.jpg": "/static/media/krewetka.04ba4f95f8a9a8b3e4a1.jpg",
     "static/media/losos.jpg": "/static/media/losos.9132b3dd978cd149dd5d.jpg",
@@ -14,11 +14,11 @@
     "static/media/avokado.jpg": "/static/media/avokado.0cd849931d4bea6d3af6.jpg",
     "static/media/mango.jpg": "/static/media/mango.ca0e93c2e8504996f296.jpg",
     "index.html": "/index.html",
-    "main.868b2799.css.map": "/static/css/main.868b2799.css.map",
-    "main.a0784bcf.js.map": "/static/js/main.a0784bcf.js.map"
+    "main.1d4d8b7b.css.map": "/static/css/main.1d4d8b7b.css.map",
+    "main.ed0a3c77.js.map": "/static/js/main.ed0a3c77.js.map"
   },
   "entrypoints": [
-    "static/css/main.868b2799.css",
-    "static/js/main.a0784bcf.js"
+    "static/css/main.1d4d8b7b.css",
+    "static/js/main.ed0a3c77.js"
   ]
 }
